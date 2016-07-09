@@ -1,0 +1,1 @@
+@py.exe C:\Users\chad\PythonScripts\ebo_tracker.py %*
